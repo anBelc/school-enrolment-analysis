@@ -18,7 +18,7 @@ This repository focuses on **data cleaning**, **joining datasets**, and **prepar
 
 Once the data is cleaned and prepared, it is visualized in Tableau. You can view the visualizations using the link below:
 
-[Primary/Secondary Education Enrolment](https://public.tableau.com/views/PrimarySecondaryEducationEnrolment/Sheet4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Primary/Secondary Education Enrolment](https://public.tableau.com/views/PrimarySecondaryEducationEnrolment/Overview_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Data Sources
 
