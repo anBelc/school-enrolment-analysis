@@ -27,7 +27,3 @@ Once the data is cleaned and prepared, it is visualized in Tableau. You can view
 - Share of population speaking each language: 
     - Wikipedia
     - Estimated data based on educated guesses and other related datasets.
-
-## License
-
-This repository is provided under an open-source license. Please feel free to use, modify, and contribute to the project.
